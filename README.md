@@ -1,2 +1,5 @@
-# github-actions-ejercicio1
-Ejercicio 1 de la actividad Github Actions
+# Ejercicio 1 - GitHub Actions
+
+**Autor:** Manahen Garcia Garrido
+
+Este es mi ejercicio 1 de GitHub Actions para ASEE.
